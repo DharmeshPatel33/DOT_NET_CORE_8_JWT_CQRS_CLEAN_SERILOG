@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\APIService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\middlerwares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\middlerwares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\behaviours\\unitofworkbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\behaviours\\unitofworkbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\sample\\commannd\\addsampleentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\sample\\commannd\\addsampleentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\sample\\query\\sampleentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\sample\\query\\sampleentityquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241109112138_UserId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Migrations\\20241109112138_UserId.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\entity\\sampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\sampleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\authentication\\query\\auth\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\authentication\\query\\auth\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\authentication\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\authentication\\command\\register\\registercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\model\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\entity\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\entity\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\model\\jwtconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\model\\jwtconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\repositories\\entityframeworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\entityframeworkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\migrations\\20241018130150_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20241018130150_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\dependancyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\source\\repos\\apiservice\\infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89F60D5-A783-4860-BA45-C6D1D3844822}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|c:\\users\\admin\\source\\repos\\apiservice\\application\\interfaces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA70967-2552-42B0-AEBE-6CCB5338BAE9}|Application\\Application.csproj|solutionrelative:application\\interfaces\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|c:\\users\\admin\\source\\repos\\apiservice\\apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5650FEEF-E2E6-468E-9D1F-596C0C5BAD42}|APIService\\APIService.csproj|solutionrelative:apiservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\migrations\\20241108121750_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20241108121750_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|c:\\users\\admin\\source\\repos\\apiservice\\domain\\migrations\\20241108123717_autoincrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28128FC0-5B42-4A36-A9C8-BEFFC0DC6328}|Domain\\Domain.csproj|solutionrelative:domain\\migrations\\20241108123717_autoincrement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Middlerwares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "APIService\\Middlerwares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Middlerwares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "APIService\\Middlerwares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:43:15.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddSampleEntityCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Sample\\Commannd\\AddSampleEntityCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Sample\\Commannd\\AddSampleEntityCommand.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Sample\\Commannd\\AddSampleEntityCommand.cs",
+              "RelativeToolTip": "Application\\Sample\\Commannd\\AddSampleEntityCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA0wC0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:11:51.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Authentication\\Query\\Auth\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Authentication\\Query\\Auth\\LoginQuery.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Authentication\\Query\\Auth\\LoginQuery.cs",
+              "RelativeToolTip": "Application\\Authentication\\Query\\Auth\\LoginQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:29:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:32:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:28:48.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APIService",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\APIService.csproj",
+              "RelativeDocumentMoniker": "APIService\\APIService.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\APIService.csproj",
+              "RelativeToolTip": "APIService\\APIService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T10:58:52.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Program.cs",
+              "RelativeDocumentMoniker": "APIService\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Program.cs",
+              "RelativeToolTip": "APIService\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:58:12.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "APIService\\Controllers\\SampleController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "APIService\\Controllers\\SampleController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:52:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SampleEntityQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Sample\\Query\\SampleEntityQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Sample\\Query\\SampleEntityQuery.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Sample\\Query\\SampleEntityQuery.cs",
+              "RelativeToolTip": "Application\\Sample\\Query\\SampleEntityQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:52:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:01:58.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWorkBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Behaviours\\UnitOfWorkBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\Behaviours\\UnitOfWorkBehavior.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Behaviours\\UnitOfWorkBehavior.cs",
+              "RelativeToolTip": "Application\\Behaviours\\UnitOfWorkBehavior.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:02:07.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Authentication\\Command\\Register\\RegisterCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Authentication\\Command\\Register\\RegisterCommand.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Authentication\\Command\\Register\\RegisterCommand.cs",
+              "RelativeToolTip": "Application\\Authentication\\Command\\Register\\RegisterCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:10:46.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Model\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Model\\LoginResponse.cs",
+              "RelativeToolTip": "Domain\\Model\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:32:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SampleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\SampleEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\SampleEntity.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\SampleEntity.cs",
+              "RelativeToolTip": "Domain\\Entity\\SampleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:36:07.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-08T09:52:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T12:46:17.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-09T10:59:29.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241109112138_UserId.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241109112138_UserId.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20241109112138_UserId.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241109112138_UserId.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20241109112138_UserId.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:21:38.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\User.cs",
+              "RelativeToolTip": "Domain\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:53:23.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\Roles.cs",
+              "RelativeDocumentMoniker": "Domain\\Entity\\Roles.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Entity\\Roles.cs",
+              "RelativeToolTip": "Domain\\Entity\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:56:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JWTConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Model\\JWTConfigurations.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\JWTConfigurations.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Model\\JWTConfigurations.cs",
+              "RelativeToolTip": "Domain\\Model\\JWTConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:46:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EntityFrameworkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Repositories\\EntityFrameworkRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\EntityFrameworkRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Repositories\\EntityFrameworkRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\EntityFrameworkRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:01:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\IdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:49:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAhwDEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:08:32.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IIdentityService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:48:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\appsettings.json",
+              "RelativeDocumentMoniker": "APIService\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\appsettings.json",
+              "RelativeToolTip": "APIService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T12:51:06.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\DependancyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependancyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:51:09.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "APIService\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "APIService\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:35:32.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Domain\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:49:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241108121750_initialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241108121750_initialMigration.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20241108121750_initialMigration.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241108121750_initialMigration.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20241108121750_initialMigration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:17:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241018130150_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241018130150_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20241018130150_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241018130150_InitialCreate.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20241018130150_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:01:50.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241108123717_AutoIncrement.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241108123717_AutoIncrement.cs",
+              "RelativeDocumentMoniker": "Domain\\Migrations\\20241108123717_AutoIncrement.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Domain\\Migrations\\20241108123717_AutoIncrement.cs",
+              "RelativeToolTip": "Domain\\Migrations\\20241108123717_AutoIncrement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:37:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DependancyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\DependancyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependancyInjection.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\DependancyInjection.cs",
+              "RelativeToolTip": "Application\\DependancyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:53:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:54:18.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Infrastructure\\Program.cs",
+              "RelativeToolTip": "Infrastructure\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:53:50.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:28:03.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\Application\\Interfaces\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:24:23.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APIService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\APIService\\APIService\\WeatherForecast.cs",
+              "RelativeToolTip": "APIService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:56:40.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
